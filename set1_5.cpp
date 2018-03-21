@@ -8,15 +8,15 @@ int main() {
 	cin>>c;
 	if(a>b && a>c)
 	{
-		cout<<"A is larger";
+		cout<<a;
 	}
 	else if(b>c)
 	{
-		cout<<"B is larger";
+		cout<<b;
 	}
 	else
 	{
-		cout<<"C is larger";
+		cout<<c;
 	}
 	// your code goes here
 	return 0;
